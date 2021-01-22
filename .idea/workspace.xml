@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3880a81a-49c9-4cd0-b5ab-2bb9209e8937" name="Default Changelist" comment="fix">
+      <change beforePath="$PROJECT_DIR$/react/practise" beforeDir="false" afterPath="$PROJECT_DIR$/react/practise" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/react" value="homework9-rozetka" />
+        <entry key="$PROJECT_DIR$/react/practise" value="practise10" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react/practise" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1k9zttVHzkffMv1UqmB7AQQrxEo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-notebook" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Люда\owu\react\practise\src\redux\action-types" />
+      <recent name="C:\Люда\owu\react\homework\src\components\services" />
+      <recent name="C:\Люда\owu\react\homework\src\components\posts" />
+      <recent name="C:\Люда\owu\react\practise\src\component\posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Люда\owu\react\homework\src" />
+      <recent name="C:\Люда\owu\react\homework\src\components\posts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.like_button.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/owu/react/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="like_button.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/react/like_button.js" working-dir="$PROJECT_DIR$/react">
+      <method v="2" />
+    </configuration>
+    <configuration name="script1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS_homework/hw3/script1.js" working-dir="$PROJECT_DIR$/JS_homework/hw3">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS_homework/hw10/script.js" working-dir="$PROJECT_DIR$/JS_homework/hw10">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS_homework/extra/script.js" working-dir="$PROJECT_DIR$/JS_homework/extra">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script1.js" />
+        <item itemvalue="Node.js.script.js (2)" />
+        <item itemvalue="Node.js.script.js (1)" />
+        <item itemvalue="Node.js.like_button.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3880a81a-49c9-4cd0-b5ab-2bb9209e8937" name="Default Changelist" comment="" />
+      <created>1605127813896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605127813896</updated>
+      <workItem from="1605127815282" duration="2614000" />
+      <workItem from="1605905723050" duration="248000" />
+      <workItem from="1606044108882" duration="21739000" />
+      <workItem from="1606818302279" duration="630000" />
+      <workItem from="1606819170523" duration="25360000" />
+      <workItem from="1606988727608" duration="60995000" />
+      <workItem from="1607525620274" duration="61685000" />
+      <workItem from="1607933532653" duration="6393000" />
+      <workItem from="1607945932642" duration="3789000" />
+      <workItem from="1608035206919" duration="36000" />
+      <workItem from="1608035312900" duration="17596000" />
+      <workItem from="1608719178781" duration="10941000" />
+      <workItem from="1608806171759" duration="24122000" />
+      <workItem from="1608980540514" duration="11717000" />
+      <workItem from="1609066923585" duration="17407000" />
+      <workItem from="1609097142117" duration="53959000" />
+      <workItem from="1609276690105" duration="10796000" />
+      <workItem from="1609324898608" duration="52404000" />
+      <workItem from="1610103839751" duration="1310000" />
+      <workItem from="1610361234337" duration="27992000" />
+    </task>
+    <task id="LOCAL-00001" summary="hw1">
+      <created>1606908888295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606908888295</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw1">
+      <created>1606912612653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606912612653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="practice1">
+      <created>1606913034602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606913034602</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw1">
+      <created>1606914001845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606914001845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="main">
+      <created>1606989643255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606989643255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="practise1">
+      <created>1606994516208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606994516208</updated>
+    </task>
+    <task id="LOCAL-00007" summary="practise2">
+      <created>1607004620530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607004620530</updated>
+    </task>
+    <task id="LOCAL-00008" summary="practise2">
+      <created>1607004837251</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607004837252</updated>
+    </task>
+    <task id="LOCAL-00009" summary="practise2">
+      <created>1607025544268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607025544268</updated>
+    </task>
+    <task id="LOCAL-00010" summary="practise2">
+      <created>1607025829379</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607025829379</updated>
+    </task>
+    <task id="LOCAL-00011" summary="homework2">
+      <created>1607028655709</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607028655709</updated>
+    </task>
+    <task id="LOCAL-00012" summary="homework2">
+      <created>1607028791903</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607028791903</updated>
+    </task>
+    <task id="LOCAL-00013" summary="homework2">
+      <created>1607273885500</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607273885501</updated>
+    </task>
+    <task id="LOCAL-00014" summary="homework2">
+      <created>1607273939954</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607273939954</updated>
+    </task>
+    <task id="LOCAL-00015" summary="homework3">
+      <created>1607338821292</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607338821292</updated>
+    </task>
+    <task id="LOCAL-00016" summary="homework3">
+      <created>1607339160919</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607339160919</updated>
+    </task>
+    <task id="LOCAL-00017" summary="homework3">
+      <created>1607429578928</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607429578928</updated>
+    </task>
+    <task id="LOCAL-00018" summary="homework4">
+      <created>1607597063819</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607597063819</updated>
+    </task>
+    <task id="LOCAL-00019" summary="homework4">
+      <created>1607597098019</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607597098019</updated>
+    </task>
+    <task id="LOCAL-00020" summary="homework5">
+      <created>1607684470756</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607684470756</updated>
+    </task>
+    <task id="LOCAL-00021" summary="homework5">
+      <created>1607684566522</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607684566522</updated>
+    </task>
+    <task id="LOCAL-00022" summary="homework5">
+      <created>1607934818335</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1607934818335</updated>
+    </task>
+    <task id="LOCAL-00023" summary="homework5-practise">
+      <created>1607935617881</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1607935617881</updated>
+    </task>
+    <task id="LOCAL-00024" summary="homework5-practise">
+      <created>1607937372348</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1607937372348</updated>
+    </task>
+    <task id="LOCAL-00025" summary="homework5-practise">
+      <created>1607958536612</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1607958536612</updated>
+    </task>
+    <task id="LOCAL-00026" summary="homework5-practise">
+      <created>1607958594310</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1607958594310</updated>
+    </task>
+    <task id="LOCAL-00027" summary="homework6">
+      <created>1608061099533</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1608061099533</updated>
+    </task>
+    <task id="LOCAL-00028" summary="homework6">
+      <created>1608061265335</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1608061265335</updated>
+    </task>
+    <task id="LOCAL-00029" summary="homework7">
+      <created>1608807572048</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1608807572048</updated>
+    </task>
+    <task id="LOCAL-00030" summary="homework7">
+      <created>1608807637623</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1608807637623</updated>
+    </task>
+    <task id="LOCAL-00031" summary="homework8">
+      <created>1608895969740</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1608895969740</updated>
+    </task>
+    <task id="LOCAL-00032" summary="homework9-internet-shop">
+      <created>1609180580419</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1609180580419</updated>
+    </task>
+    <task id="LOCAL-00033" summary="practise8-redux">
+      <created>1609242572268</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1609242572268</updated>
+    </task>
+    <task id="LOCAL-00034" summary="practise10_redux_form_select">
+      <created>1609325127688</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1609325127688</updated>
+    </task>
+    <task id="LOCAL-00035" summary="practise10_redux_form_select">
+      <created>1609325296101</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1609325296101</updated>
+    </task>
+    <task id="LOCAL-00036" summary="practise9_useMemo">
+      <created>1609343937309</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1609343937309</updated>
+    </task>
+    <task id="LOCAL-00037" summary="practise10_redux_form_select">
+      <created>1609344387865</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1609344387865</updated>
+    </task>
+    <task id="LOCAL-00038" summary="practise11_redux_form_select">
+      <created>1609587744486</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1609587744486</updated>
+    </task>
+    <task id="LOCAL-00039" summary="practise11_redux_form_select">
+      <created>1609587793924</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1609587793924</updated>
+    </task>
+    <task id="LOCAL-00040" summary="practise11_redux_form_select">
+      <created>1609587878364</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1609587878364</updated>
+    </task>
+    <task id="LOCAL-00041" summary="practise10_redux_form_select">
+      <created>1609611563818</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1609611563818</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix">
+      <created>1611219695328</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1611219695328</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix">
+      <created>1611234690021</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1611234690021</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="practise2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/react/1st" />
+      <path value="$PROJECT_DIR$/react/2nd" />
+      <path value="$PROJECT_DIR$/react/react-hw-1" />
+      <path value="$PROJECT_DIR$/react/react-hw1" />
+      <path value="$PROJECT_DIR$/react/react-practise1" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/JS_homework" />
+      <path value="$PROJECT_DIR$/hometask" />
+    </ignored-roots>
+    <MESSAGE value="practice1" />
+    <MESSAGE value="hw1" />
+    <MESSAGE value="main" />
+    <MESSAGE value="practise1" />
+    <MESSAGE value="practise2" />
+    <MESSAGE value="homework2" />
+    <MESSAGE value="homework3" />
+    <MESSAGE value="homework4" />
+    <MESSAGE value="homework5" />
+    <MESSAGE value="homework5-practise" />
+    <MESSAGE value="homework6" />
+    <MESSAGE value="homework7" />
+    <MESSAGE value="homework8" />
+    <MESSAGE value="homework9-internet-shop" />
+    <MESSAGE value="practise8-redux" />
+    <MESSAGE value="practise9_useMemo" />
+    <MESSAGE value="practise11_redux_form_select" />
+    <MESSAGE value="practise10_redux_form_select" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
