@@ -1,0 +1,2 @@
+<app-comment *ngFor="let comment of comments" [comment]="comment" (bubbleUp)="getBubble($event)"></app-comment>
+<app-comment [comment]="singleComment"></app-comment>
