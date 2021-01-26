@@ -1,0 +1,5 @@
+<div [class]="['target']">
+  {{user.name}} - {{user.age}} - {{user.status}} - <a [routerLink]="[user.id]" (click)="getUser(user)">info</a>
+</div>
+<app-full-user [user]="singleUser"></app-full-user>
+
