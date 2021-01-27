@@ -1,0 +1,13 @@
+<div *ngIf="user">
+  {{user.id}}
+  {{user.name}}
+  {{user.username}}
+  {{user.email}}
+  {{user.address.city}}
+  {{user.address.street}}
+  {{user.address.geo.lat}}
+  {{user.address.geo.lng}}
+
+  <button (click)="goTo()">show posts</button>
+</div>
+
