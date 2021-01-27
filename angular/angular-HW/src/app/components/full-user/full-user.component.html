@@ -7,7 +7,7 @@
   {{user.address.street}}
   {{user.address.geo.lat}}
   {{user.address.geo.lng}}
-
-  <button (click)="goTo()">show posts</button>
+<a [routerLink]="['posts', user.id]">posts</a>
+<!--  <button (click)="goTo()">show posts</button>-->
 </div>
 

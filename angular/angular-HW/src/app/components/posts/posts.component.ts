@@ -1,4 +1,6 @@
 import {Component, OnInit} from '@angular/core';
+import {Post} from '../../models/Post';
+import {ActivatedRoute} from '@angular/router';
 
 @Component({
   selector: 'app-posts',
@@ -6,8 +8,12 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./posts.component.css']
 })
 export class PostsComponent implements OnInit {
+  posts: Post[];
+  userId: number;
 
-  constructor() {
+  constructor(private activatedRoute: ActivatedRoute) {
+    this.activatedRoute.data.subscribe(value =>  this.posts = value.postsData);
+    this.activatedRoute.params.subscribe(value => this.userId = value.id);
   }
 
   ngOnInit(): void {

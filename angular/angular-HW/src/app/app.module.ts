@@ -20,12 +20,10 @@ const routes: Routes = [
       {
         path: ':id', component: FullUserComponent,
         children: [
-          {path: 'posts', component: PostsComponent, resolve: {postsData: PostResolveService},
-          children: [
-            {path: ':id', component: PostComponent}
-          ]}
-        ]}
-    ]
+          {path: 'posts/:id', component: PostsComponent, resolve: {postsData: PostResolveService}}
+        ]
+      }
+      ]
   },
   {path: '', redirectTo: 'users', pathMatch: 'full'}
 ];

@@ -14,9 +14,9 @@ export class FullUserComponent implements OnInit {
       this.user = this.router.getCurrentNavigation().extras.state as User;
     });
   }
-  goTo(): void {
-    this.router.navigate(['posts'], {relativeTo: this.activatedRoute, state: this.user});
-  }
+  // goTo(): void {
+  //   this.router.navigate(['posts', this.user.id], {relativeTo: this.activatedRoute, state: this.user});
+  // }
   ngOnInit(): void {
 
   }
