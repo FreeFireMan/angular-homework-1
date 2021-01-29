@@ -24,7 +24,7 @@
     <input [formControl]="name">
     <input [formControl]="age">
     <input [formControl]="email">
-    <button>edit</button>
+    <button [disabled]="!form.valid">edit</button>
   </form>
 </div>
 
